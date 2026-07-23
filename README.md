@@ -14,4 +14,8 @@
 
 오현택
 
+ fix/README
  하이-한이
+
+## pr 승인이랑 merge해주세요.
+ main
